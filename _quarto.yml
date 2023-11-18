@@ -2,18 +2,21 @@ project:
   type: website
 
 website:
-  title: "perky-programming"
+  title: "Chris Tennis Stringing"
   navbar:
+    background: primary
+    left:
+      - home.qmd
+      - strings.qmd
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: lux
+    css: styles.scss
 
 
 

@@ -1,16 +1,10 @@
 /* css styles */
-.navbar-nav .nav-item > .nav-link {
-    border-radius: 5.5rem;
-    padding: 0.5rem;
-}
+$navbar-bg:#0B2842;//#3E6682;
+$navbar-fg: white;
+
 
 .navbar-dark .navbar-nav .nav-item > .nav-link.active, .navbar-light .navbar-nav .nav-item > .nav-link.active{
     background: rgba(220,220,220,0.3);
-}
-
-.navbar-nav .nav-item > .nav-link {
-    border-radius: .5rem;
-    padding: 0.5rem;
 }
 
 .navbar-brand > img {
@@ -18,6 +12,8 @@
 }
 
 .navbar {
+    color: blue;
     height: 80px;
-    text-transform: uppercase;
+    //text-transform: uppercase;
+    text-indent: 50px;
   }
