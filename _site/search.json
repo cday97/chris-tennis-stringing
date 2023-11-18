@@ -30,9 +30,9 @@
   {
     "objectID": "home.html",
     "href": "home.html",
-    "title": "Home",
+    "title": "Chris Tennis Stringing",
     "section": "",
-    "text": "Home"
+    "text": "Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days."
   },
   {
     "objectID": "strings.html",
@@ -40,5 +40,40 @@
     "title": "String Options",
     "section": "",
     "text": "String Options"
+  },
+  {
+    "objectID": "home.html#cost",
+    "href": "home.html#cost",
+    "title": "Chris Tennis Stringing",
+    "section": "Cost",
+    "text": "Cost\n$15 per racket + cost of string\nDeal: String 4 rackets, Get the 5th free!"
+  },
+  {
+    "objectID": "home.html#about",
+    "href": "home.html#about",
+    "title": "Chris Tennis Stringing",
+    "section": "",
+    "text": "Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days."
+  },
+  {
+    "objectID": "home.html#location",
+    "href": "home.html#location",
+    "title": "Chris Tennis Stringing",
+    "section": "Location",
+    "text": "Location\nWe are located near Maceys on 800N in Orem, Utah. Please contact us for the exact address."
+  },
+  {
+    "objectID": "home.html#contact",
+    "href": "home.html#contact",
+    "title": "Chris Tennis Stringing",
+    "section": "Contact",
+    "text": "Contact"
+  },
+  {
+    "objectID": "home.html#contact-information",
+    "href": "home.html#contact-information",
+    "title": "Chris Tennis Stringing",
+    "section": "Contact Information",
+    "text": "Contact Information\nPlease text or email using the information below or scan the QR to generate an automatic text message."
   }
 ]
