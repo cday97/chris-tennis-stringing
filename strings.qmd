@@ -1,7 +1,150 @@
 ---
-page-layout: full
+page-layout: article
 title-block-banner: true
 ---
 
-# String Options
+# Strings
+Below are the strings currently has in stock. If there is a string that you want that isn't listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string for stringing.
 
+## Poly Strings
+
+### BIG HITTER BLACK 7 -- *$12*
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/big-hitter.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+POWER: &nbsp; &nbsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
+
+### OEHMS BLACK PEARL ROUGH -- *$12*
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/black-pearl.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+POWER: &nbsp; &nbsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
+
+### OEHMS MATADOR -- *$12*
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/matador.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+POWER: &nbsp; &nbsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
+![](images/circle.png){width=31}git
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
