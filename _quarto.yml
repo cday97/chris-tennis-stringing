@@ -6,7 +6,7 @@ website:
   navbar:
     background: primary
     left:
-      - home.qmd
+      - about.qmd
       - strings.qmd
     right:
       - icon: github

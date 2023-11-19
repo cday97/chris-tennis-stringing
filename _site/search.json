@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Chris Tennis Stringing",
     "section": "",
-    "text": "About this blog"
+    "text": "Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days.\n\n\n\n$15 per racket + cost of string\nDeal: String 4 rackets, Get the 5th free!\n\n\n\nWe are located near Maceys on 800N in Orem, Utah. Please contact us for the exact address.\n\n\n\n\n\n\n\n\n\nPlease text or email using the information below or scan the QR to generate an automatic text message."
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -39,7 +39,7 @@
     "href": "strings.html",
     "title": "Strings",
     "section": "",
-    "text": "Below are the strings currently has in stock. If there is a string that you want that isn’t listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string for stringing.\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:           \nCOMFORT:     \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:      \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:       \nSPIN:               \nCONTROL:       \nCOST:           git"
+    "text": "Below are the strings currently has in stock. If there is a string that you want that isn’t listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string for stringing.\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:           \nCOMFORT:     \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:      \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:       \nSPIN:               \nCONTROL:       \nCOST:"
   },
   {
     "objectID": "home.html#cost",
@@ -81,6 +81,34 @@
     "href": "strings.html#poly-strings",
     "title": "Strings",
     "section": "",
-    "text": "POWER:           \nCOMFORT:     \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:      \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:       \nSPIN:               \nCONTROL:       \nCOST:           git"
+    "text": "POWER:           \nCOMFORT:     \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:      \nSPIN:                 \nCONTROL:      \nCOST:              \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nPOWER:          \nCOMFORT:       \nSPIN:               \nCONTROL:       \nCOST:"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Chris Tennis Stringing",
+    "section": "About",
+    "text": "About\nChris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days."
+  },
+  {
+    "objectID": "about.html#cost",
+    "href": "about.html#cost",
+    "title": "Chris Tennis Stringing",
+    "section": "Cost",
+    "text": "Cost\n$15 per racket + cost of string\nDeal: String 4 rackets, Get the 5th free!"
+  },
+  {
+    "objectID": "about.html#location",
+    "href": "about.html#location",
+    "title": "Chris Tennis Stringing",
+    "section": "Location",
+    "text": "Location\nWe are located near Maceys on 800N in Orem, Utah. Please contact us for the exact address."
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "Chris Tennis Stringing",
+    "section": "Contact Information",
+    "text": "Contact Information\nPlease text or email using the information below or scan the QR to generate an automatic text message."
   }
 ]

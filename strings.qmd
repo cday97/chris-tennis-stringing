@@ -140,7 +140,7 @@ CONTROL: &puncsp;
 ![](images/circle.png){width=31}
 
 COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
-![](images/circle.png){width=31}git
+![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}

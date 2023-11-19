@@ -1,7 +1,11 @@
 ---
-image: images/profile.jpg
+#title: "About"
+page-layout: full
+#title-block-banner: images/banner2.jpg
+#title-block-banner-color: white
 about:
-  template: jolla
+  template: marquee #jolla
+  image: images/banner2.jpg
   links:
     - icon: phone
       text: (603) 937-8176
@@ -12,8 +16,41 @@ about:
     - icon: coin 
       text: "ChristopherDay12 (Venmo)"
       #href: https://github.com
-
+format: html
+include-in-header:
+  - text: |
+      <style>
+      .callout.callout-style-default {
+        text-align: center;
+      }
+      </style>
 ---
+
+<style>
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -1px;
+  height: 600px;
+}
+
+.quarto-tit1le-banner {
+  margin-block-end: 1rem;
+  position: relative;
+  margin-top: -30px;
+  height: 85%;
+}
+
+</style>
+
+```{css, echo = FALSE}
+.center {
+  text-align: center !important
+}
+```
+
+::: {.center}
 
 ## About
 
@@ -31,7 +68,6 @@ $15 per racket + cost of string
 We are located near Maceys on 800N in Orem, Utah. Please contact us for the exact address.
 
 ```{r}
-#| column: screen-inset-shaded
 #| echo: false
 #| warning: false
 
@@ -45,6 +81,9 @@ leaflet() %>%
 
 Please text or email using the information below or scan the QR to generate an automatic text message.
 
-![](images/qrcode.png)
+:::
+
+![](images/qrcode.png){fig-align="center"}
+
 
 
