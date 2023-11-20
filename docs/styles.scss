@@ -1,0 +1,19 @@
+/* css styles */
+$navbar-bg:#0B2842;//#3E6682;
+$navbar-fg: white;
+
+
+.navbar-dark .navbar-nav .nav-item > .nav-link.active, .navbar-light .navbar-nav .nav-item > .nav-link.active{
+    background: rgba(220,220,220,0.3);
+}
+
+.navbar-brand > img {
+  max-height: 44px;
+}
+
+.navbar {
+    color: blue;
+    height: 80px;
+    //text-transform: uppercase;
+    text-indent: 50px;
+  }
