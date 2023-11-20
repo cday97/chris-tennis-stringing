@@ -36,7 +36,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -83,7 +83,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -132,7 +132,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -178,7 +178,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -224,7 +224,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -273,7 +273,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -322,7 +322,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
@@ -366,7 +366,7 @@ SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
