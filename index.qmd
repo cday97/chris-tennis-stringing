@@ -1,9 +1,25 @@
 ---
-page-layout: full
-title: Chris Tennis Stringing
-title-block-banner: images/blue.png
-title-block-banner-color: white
+title: "Chris Tennis Stringing"
+about:
+  template: jolla
+  image: images/funnytennis.png
+  links:
+    - icon: phone
+      text: (603) 937-8176
+      #href: https://twitter.com
+    - icon: envelope
+      text: christophersday@gmail.com
+      href: mailto:christophersday@gmail.com
+    - icon: coin 
+      text: "ChristopherDay12 (Venmo)"
+      href: https://venmo.com/
 ---
+
+Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days.
+
+See the [About](about.qmd) Section for more details relating to cost and location. See the [String](strings.qmd) section for strings currently in stock.
+
+
 
 
 

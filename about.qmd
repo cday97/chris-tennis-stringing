@@ -1,8 +1,5 @@
 ---
-#title: "About"
 page-layout: full
-#title-block-banner: images/banner2.jpg
-#title-block-banner-color: white
 about:
   template: marquee #jolla
   image: images/banner2.jpg
@@ -12,10 +9,10 @@ about:
       #href: https://twitter.com
     - icon: envelope
       text: christophersday@gmail.com
-      #href: https://linkedin.com
+      href: mailto:christophersday@gmail.com
     - icon: coin 
       text: "ChristopherDay12 (Venmo)"
-      #href: https://github.com
+      href: https://venmo.com/
 format: html
 include-in-header:
   - text: |

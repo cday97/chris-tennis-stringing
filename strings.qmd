@@ -6,9 +6,9 @@ title-block-banner: true
 # Strings
 Below are the strings currently has in stock. If there is a string that you want that isn't listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string for stringing.
 
-## Poly Strings
+### BIG HITTER BLACK 7 -- *$13*
 
-### BIG HITTER BLACK 7 -- *$12*
+Big Hitter Black 7 is not only a great option for advanced players in search of a durable poly with major bite and power, but it also looks like a great starting point for big swinging intermediates who are ready to take the poly plunge.
 
 :::: {layout="[ 40, -5, 55]"}
 
@@ -20,32 +20,29 @@ Below are the strings currently has in stock. If there is a string that you want
 
 <br></br>
 
-POWER: &nbsp; &nbsp; &hairsp; 
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-COMFORT: &hairsp; 
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
+DURABLILITY: &puncsp; 
 ![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-
-CONTROL: &puncsp; 
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-
-COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
@@ -57,6 +54,8 @@ COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp;
 
 ### OEHMS BLACK PEARL ROUGH -- *$12*
 
+Shaped co-polyester tennis string of latest technology, high-tech made in Germany. Eight internal grooves create additional spin and lead to a longer ball pocketing. The result is pure spin and control. Perfect for athletic players who like hitting with heavy spin.
+
 :::: {layout="[ 40, -5, 55]"}
 
 ::: {#first-column}
@@ -67,42 +66,43 @@ COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp;
 
 <br></br>
 
-POWER: &nbsp; &nbsp; &hairsp; 
-![](images/circle.png){width=31}
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-COMFORT: &hairsp; 
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-CONTROL: &puncsp; 
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
+DURABLILITY: &puncsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
-![](images/circle.png){width=31}
+
 
 :::
 
 ::::
 
 ### OEHMS MATADOR -- *$12*
+
+A softer comfortable eight-sided co-poly string for extra ball bite and spin.
 
 :::: {layout="[ 40, -5, 55]"}
 
@@ -114,36 +114,268 @@ COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp;
 
 <br></br>
 
-POWER: &nbsp; &nbsp; &hairsp; 
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-COMFORT: &hairsp; 
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-
-SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; 
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-![](images/circle.png){width=31}
-
-CONTROL: &puncsp; 
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-COST: &nbsp; &nbsp; &nbsp; &hairsp; &puncsp; 
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+:::
+
+::::
+
+### PRINCE TOUR XTRA POWER (17 GUAGE) -- *$12*
+
+This co-poly gives strong intermediates and advanced players phenomenal control on full swings. Made with a unique alloy to improve feel and tension maintenance, Tour XP manages to offer sufficient comfort without sacrificing the crisp feel and firm feedback that many advanced players crave.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/prince-tour.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+:::
+
+::::
+
+### EAGNAS NANO (17 GUAGE) -- *$10*
+
+This high performance nano technology string provides power and superior durability with exceptional tension maintenance.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/eagnas-nano.png){width=60%}
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+:::
+
+::::
+
+
+### HEAD HAWK ROUGH (17 GAUGE) - $18
+
+ Head Hawk is suitable for hard hitting players who play competitive tennis and need maximum durability and control from their strings
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/head-hawk.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+:::
+
+::::
+
+### YONEX DYNAWIRE ALL AROUND (17 GAUGE) - $12
+
+Yonex Dynawire Tennis String uses a solid core construction for a crisp feel and durable response. The string also incorporates a unique metal film around it for a boost in power, and silicone coating to help the strings slide easily.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/dynawire.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+:::
+
+::::
+
+### DECATHLON ARTENGO TA990 (16 GUAGE) - $10
+
+This tennis string was designed for advanced players. It provides excellent ball speed and control.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/decathlon.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &puncsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
 
 :::
 
