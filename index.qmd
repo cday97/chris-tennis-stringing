@@ -17,7 +17,7 @@ about:
 
 Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days.
 
-See the [About](about.qmd) Section for more details relating to cost and location. See the [String](strings.qmd) section for strings currently in stock.
+See the [About](about.qmd) Section for more details relating to cost and location. See the [Strings](strings.qmd) Section for a list of strings we currently have in stock.
 
 
 

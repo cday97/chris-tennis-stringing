@@ -4,7 +4,7 @@ title-block-banner: true
 ---
 
 # Strings
-Below are the strings currently has in stock. If there is a string that you want that isn't listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string for stringing.
+Below are the strings we currently have in stock. If the string you want is not listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string.
 
 ### BIG HITTER BLACK 7 -- *$13*
 
@@ -243,7 +243,7 @@ DURABLILITY: &puncsp;
 
 ### HEAD HAWK ROUGH (17 GAUGE) - $18
 
- Head Hawk is suitable for hard hitting players who play competitive tennis and need maximum durability and control from their strings
+Head Hawk is suitable for hard hitting players who play competitive tennis and need maximum durability and control from their strings
 
 :::: {layout="[ 40, -5, 55]"}
 

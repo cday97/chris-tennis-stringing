@@ -76,7 +76,7 @@ leaflet() %>%
 
 ## Contact Information
 
-Please text or email using the information below or scan the QR to generate an automatic text message.
+Please text or email us using the information below or scan the QR code to generate an automatic text message.
 
 :::
 
