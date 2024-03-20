@@ -147,6 +147,102 @@ DURABLILITY: &puncsp;
 :::
 
 ::::
+### RPM Blast (16 GUAGE) -- *$18*
+
+One of the most iconic co-polys of all time, this firm and durable string is perfect for big hitters looking to load the ball with pace and spin. The slick surface of RPM Blast enables the strings to snap back with vicious force, resulting in extra RPMs (think heavy ball). It also seems to be working quite well for Rafa! Did we mention the spin?
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/rpm.png){width=250}
+:::
+
+::: {#second-column}
+
+<br></br>
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
+### Volkyl Cyclone (16 GUAGE) -- *$11*
+
+A unique string offering incredible spin with surprising playability. The multi-sided shape features significant ridges, which help to really bite the ball and result in the ability to generate tremendous amounts of spin. This string offers enhanced ball speed, improved control, and most importantly, incredible spin as compared to typical polyester strings. Volkyl Cyclone is comparable to RPM Blast, but much more affordable.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/cyclone.png){width=270}
+:::
+
+::: {#second-column}
+
+<br></br>
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
 
 ### KIRSCHBAUM ORANGE (1.28mm) -- *$10*
 
