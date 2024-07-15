@@ -1,0 +1,47 @@
+---
+page-layout: article
+title-block-banner: true
+---
+
+# Extra Products
+Below are extra products available for purchase. Some items come free when stringing a racket. 
+
+### WILSON OVERGRIP -- *$3 (\*FREE)*
+
+A soft, padded, cloth-like tape that is wrapped around the handle of a racquet. 
+
+\**Free upon request for customers who get their racket strung.*
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/overgrip.png)
+:::
+
+::::
+
+### Shock Absorber -- *$3 (\*FREE)*
+
+The purpose of a vibration dampener is to reduce the shock during contact caused by the tennis ball hitting the racquet strings. 
+
+\**Free upon request for customers who get their racket strung.*
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/shock.png)
+:::
+
+::::
+
+### TOURNA REPLACEMENT GRIP -- *$10*
+
+The replacement grip (also known as the stock grip, base grip, factory grip, undergrip, etc), is the grip that goes onto the racquet's bare wooden handle itself. It's usually a bit thicker, to allow for some cushioning.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/grip.png)
+:::
+
+::::

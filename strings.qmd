@@ -6,6 +6,55 @@ title-block-banner: true
 # Strings
 Below are the strings we currently have in stock. If the string you want is not listed, feel free to contact us and we will do our best to make it available. Customers are also free to bring their own string.
 
+### SOLINCO HYPER G (16 GAUGE) -- *$15*
+
+Solinco Hyper-G is a shaped co-poly with an impressive combination of spin and precision. Developed for an ATP top 50 player, this medium firm string will allow big hitters to take massive cuts at the ball without having to worry about overhitting. Topspin players who like hitting balls that dive sharply and explode off the court should love this string.
+
+:::: {layout="[ 40, -5, 55]"}
+
+::: {#first-column}
+![](images/hyper-g.png)
+:::
+
+::: {#second-column}
+
+<br></br>
+
+
+POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+DURABLILITY: &puncsp; 
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+![](images/circle.png){width=31}
+
+:::
+
+::::
+
 ### BIG HITTER BLACK 7 (16 GUAGE) -- *$12*
 
 Big Hitter Black 7 is not only a great option for advanced players in search of a durable poly with major bite and power, but it also looks like a great starting point for big swinging intermediates who are ready to take the poly plunge.
@@ -143,7 +192,6 @@ DURABLILITY: &puncsp;
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 
-
 :::
 
 ::::
@@ -218,6 +266,7 @@ POWER: &nbsp; &nbsp; &hairsp; &nbsp;  &nbsp;  &nbsp;
 COMFORT: &hairsp; &nbsp;  &nbsp;  &nbsp; 
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
+![](images/circle.png){width=31}
 
 
 SPIN: &nbsp; &nbsp; &nbsp; &hairsp; &hairsp; &hairsp; &nbsp;  &nbsp;  &nbsp; 
@@ -234,7 +283,6 @@ CONTROL: &nbsp;  &hairsp; &hairsp; &hairsp;  &hairsp;
 ![](images/circle.png){width=31}
 
 DURABLILITY: &puncsp; 
-![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}
 ![](images/circle.png){width=31}

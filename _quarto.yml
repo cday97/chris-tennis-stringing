@@ -10,6 +10,8 @@ website:
     left:
       - about.qmd
       - strings.qmd
+      - extra-products.qmd
+      - reviews.qmd
     #right:
       #- icon: github
       #  href: https://github.com/
