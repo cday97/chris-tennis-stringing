@@ -1,2 +1,2 @@
-# perky-programming
-A repo to track all the changes to my fun programming blog.
+# chris-tennis-stringing
+A repo for my tennis stringing business.
