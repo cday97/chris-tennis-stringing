@@ -15,7 +15,7 @@ about:
       href: https://venmo.com/
 ---
 
-Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within 1-2 days.
+Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within a few days.
 
 See the [About](about.qmd) Section for more details relating to cost and location. See the [Strings](strings.qmd) Section for a list of strings we currently have in stock.
 
