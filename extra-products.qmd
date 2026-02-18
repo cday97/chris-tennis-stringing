@@ -4,88 +4,44 @@ title-block-banner: true
 ---
 
 # Extra Products
-Below are extra products available for purchase. Some items come free when stringing a racket. 
 
-### BASIC OVERGRIP -- *$2 (\*FREE)*
+Below are extra products available for purchase. Some items are free with a racquet stringing.  
 
-A soft, padded, cloth-like tape that is wrapped around the handle of a racquet. Three different types are available (see the red grips in the picture).
+---
 
- 1. Padded
- 2. Padded with Holes
- 3. Basic
+## 🟢 Overgrips
 
-\**Free upon request on rackets that are restrung.*
+- **Basic Overgrip — $2 (\*FREE)**  
+  Soft, padded cloth tape. Three types: Padded, Padded with Holes, Basic.  
 
-:::: {layout="[ 40, -5, 55]"}
+- **Wilson Overgrip — $3**  
+  Higher-quality soft, padded cloth tape.  
 
-::: {#first-column}
-![](images/grips1.jpg)
-:::
+---
 
-::::
+## 🟡 Shock Absorbers
 
-### WILSON OVERGRIP -- *$3*
+- **Shock Absorber — $3 (\*FREE)**  
+  Reduces vibration when the ball hits the strings.  
 
-A soft, padded, cloth-like tape that is wrapped around the handle of a racquet. (*higher quality*)
+---
 
-:::: {layout="[ 40, -5, 55]"}
+## 🔵 Protective Tape
 
-::: {#first-column}
-![](images/overgrip2.png)
-:::
+- **Tourna Racquet Guard Tape — $3 (\*FREE)**  
+  Protects racquets from nicks and scrapes.  
 
-::::
+---
 
-### Shock Absorber -- *$3 (\*FREE)*
+## 🟠 Replacement Grips
 
-The purpose of a vibration dampener is to reduce the shock during contact caused by the tennis ball hitting the racquet strings. 
+- **Tourna Replacement Grip — $10**  
+  The base grip on the racquet handle. Slightly thicker for cushioning.  
 
-\**Free upon request on rackets that are restrung.*
+---
 
-:::: {layout="[ 30, -5, 55]"}
+## 🔴 Grommets & Bumper Guard
 
-::: {#first-column}
-![](images/shock.png)
-:::
-
-::::
-
-### TOURNA RACQUET GUARD TAPE -- *$3 (\*FREE)*
-
-Abrasion tape that protects rackets from nicks and scrapes. 
-
-\**Free upon request on rackets that are restrung.*
-
-:::: {layout="[ 20, -5, 55]"}
-
-::: {#first-column}
-![](images/tape2.png)
-:::
-
-::::
-
-### TOURNA REPLACEMENT GRIP -- *$10*
-
-The replacement grip (also known as the stock grip, base grip, factory grip, undergrip, etc), is the grip that goes onto the racquet's bare wooden handle itself. It's usually a bit thicker, to allow for some cushioning.
-
-:::: {layout="[ 80, -25, 75]"}
-
-::: {#first-column}
-![](images/grip2.png)
-:::
-
-::::
-
-### REPLACEMENT GROMMETS & HEAD GUARD -- *~$30*
-
-The grommets are the little plastic bits at the mouth of each string hole that keep the string from rubbing against the racket frame. Grommets can wear out over time, which can lead to premature string breakage and increased wear on the racquet. Signs that you might need new grommets include splintering, flaring, or rattling. The bumper guard protects the structural integrity of the raquet, preventing premature breakage. 
-
-The cost to replace the grommets and head guard is usually around $30 ($10 for labor and around $20 for a new set of grommets). Please note that grommets can only be replaced without the string, so it will require a new string job as well. Also note that it takes a few weeks for a replacement grommet set to arrive after ordering.
-
-:::: {layout="[ 80, -25, 75]"}
-
-::: {#first-column}
-![](images/grommets.jpg)
-:::
-
-::::
+- **Replacement Grommets & Head Guard — ~$30**  
+  Plastic grommets prevent string/frame wear. Bumper guard protects the frame.  
+  Requires restringing. Replacement sets may take a few weeks.  

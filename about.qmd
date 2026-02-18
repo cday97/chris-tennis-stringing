@@ -1,86 +1,56 @@
 ---
 page-layout: full
 about:
-  template: marquee #jolla
+  template: marquee
   image: images/banner2.jpg
   links:
     - icon: phone
       text: (603) 937-8176
-      #href: https://twitter.com
+      href: "tel:6039378176" # This makes it clickable on mobile!
     - icon: envelope
       text: christophersday@gmail.com
       href: mailto:christophersday@gmail.com
     - icon: coin 
       text: "ChristopherDay12 (Venmo)"
-      href: https://venmo.com/
-format: html
-include-in-header:
-  - text: |
-      <style>
-      .callout.callout-style-default {
-        text-align: center;
-      }
-      </style>
+      href: https://venmo.com/u/ChristopherDay12
 ---
 
 <style>
-
 #title-block-header {
   margin-block-end: 1rem;
   position: relative;
-  margin-top: -1px;
   height: 600px;
 }
-
-.quarto-tit1le-banner {
+.quarto-title-banner {
   margin-block-end: 1rem;
   position: relative;
-  margin-top: -30px;
   height: 85%;
 }
-
-</style>
-
-```{css, echo = FALSE}
 .center {
-  text-align: center !important
+  text-align: center !important;
 }
-```
+</style>
 
 ::: {.center}
 
 ## About
-
 Chris Tennis Stringing provides quality tennis stringing services at an affordable price. With a quick turnaround, you can expect your racket returned within a few days.
 
 ## Cost
+**$20 labor per racket + cost of string**
 
-$15 per racket + cost of string
-
-*Deal: String 4 rackets, Get the 5th free!*
-
+*Deal: String 4 rackets, get the 5th labor-free!*
 
 ## Location
-
-We are located near Maceys on 800N in Orem, Utah. Please contact us for the exact address.
+Located near Macey's on 800N in Orem, Utah. Contact for the exact address.
 
 ```{r}
 #| echo: false
 #| warning: false
-
 library(leaflet)
 leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=-111.6990, lat=40.3112, popup="The birthplace of R")
+  addTiles() %>%
+  addMarkers(lng=-111.6990, lat=40.3112, popup="Chris Tennis Stringing")
 ```
 
-## Contact Information
-
-Please text or email us using the information below or scan the QR code to generate an automatic text message.
-
 :::
-
-![](images/qrcode.png){fig-align="center"}
-
-
-
