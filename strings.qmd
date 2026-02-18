@@ -7,7 +7,7 @@ title-block-banner: true
 
 **Note:** All prices listed below are for the **string only**. A flat **$20 labor fee** will be added to each racket for the stringing service.
 
-## 🏆 Premium Series — $20
+### 🏆 Premium Series — $20
 *Top-tier performance for competitive play, featuring maximum spin, tension maintenance, and control.*
 
 * RPM Blast (16 Gauge)
@@ -16,7 +16,7 @@ title-block-banner: true
 
 ---
 
-## ⚖️ Value Poly — $13
+### ⚖️ Value Poly — $13
 *High-performance co-polyesters that offer a perfect balance of durability and "bite" at a mid-range price.*
 
 * Volkl Cyclone (17 Gauge)
@@ -25,7 +25,7 @@ title-block-banner: true
 
 ---
 
-## ☁️ Comfort & Playability — $13
+### ☁️ Comfort & Playability — $13
 *Softer materials designed for arm-friendliness, feel, and improved ball pocketing.*
 
 * Prince Tour Xtra Power (17 Gauge)
@@ -33,7 +33,7 @@ title-block-banner: true
 
 ---
 
-## 💸 Budget Series — $10
+### 💸 Budget Series — $10
 *Reliable, high-quality strings at our most affordable price point.*
 
 * Kirschbaum Orange (1.28mm)
